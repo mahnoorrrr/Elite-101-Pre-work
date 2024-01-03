@@ -1,3 +1,7 @@
+option_list = ['1. I feel bad about my work, am I doing good?', \
+               '2. I made a mistake, what should I do?', \
+               '3. Does anyone truly love me for who I am?', \
+               '4. I want to exit the chatbot space']
 def chat_bot():
   #welcome message
   print('Welcome to my space, it\'s nice to meet you! My name is Chatbot.')
